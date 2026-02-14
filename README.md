@@ -1,3 +1,4 @@
+https://www.loom.com/share/935b67ad6fd54f66a50dc606938567b0
 # Set-Up-for-Active-Directory-AWS-
 # Active Directory Setup via Remote Desktop
 
